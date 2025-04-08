@@ -1,0 +1,69 @@
+body{
+    background-color: brown;
+    font-family: Blippo, fantasy ;
+}
+.principal{ 
+    width: 940px;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    color: beige;
+    border: 3px;
+}
+header{
+    color: beige;   
+    font-size: 50px;
+    column-count: 2;
+}
+.sobre{
+    text-align: right;
+}
+.opcao{
+    text-align: right;
+}
+.cabecalho-substitulo{
+    color: beige;   
+    font-size: 20px;
+}
+h1{
+    border-bottom: solid;
+    color: beige;
+}
+.hardskill{
+    border-bottom: solid;
+    color: beige;
+}
+.imagem{
+    text-align: center;
+    color: beige;
+    padding: 15px;
+    margin:  30px;
+    margin-top: 10px;
+}
+.apresentacao{
+    column-count: 2;
+}
+table,tr,td{
+    text-align: center;
+    border: 3px solid;
+} 
+footer{
+    text-align: center;
+    color: beige;
+    padding: 15px;
+    margin:  30px;
+    margin-top: 10px;
+    font-size: 30px;
+}
+button{
+    background-color: black;
+    color: beige;
+    font-size: 20px;
+}
+a{
+    color: beige;
+}
+.foto{
+    height: 50px;
+    width: 50px;
+}
